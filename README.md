@@ -2,9 +2,14 @@
 - 👀 I’m interested in HyperCasual
 - 🌱 I’m currently learning Unity + C#
 - 💞️ I’m looking to collaborate on HyperCasual
-- 📫 How to reach me safakglp@hotmail.com
 
-<!---
-safakgulpinar/safakgulpinar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Connect with me** 
+
+safakglp@hotmail.com or [LinkedIn](https://www.linkedin.com/in/şafak-gülpinar/)
+
+
+**Languages and Tools** 
+
+![unitylogo](https://github.com/safakgulpinar/safakgulpinar/blob/main/mygithub/unity-logo_40x40.png)        ![clogo](https://github.com/safakgulpinar/safakgulpinar/blob/main/mygithub/clogo_40x40.png)        ![adobelogo](https://github.com/safakgulpinar/safakgulpinar/blob/main/mygithub/adobelogo.png)     ![slacklogo](https://github.com/safakgulpinar/safakgulpinar/blob/main/mygithub/slack.jpg)
+
+
