@@ -5,7 +5,7 @@
 
 **Connect with me** 
 
-safakglp@hotmail.com or [LinkedIn](https://www.linkedin.com/in/şafak-gülpinar/)
+safakgulpinar0@gmail.com or [LinkedIn](https://www.linkedin.com/in/şafak-gülpinar/)
 
 
 **Languages and Tools** 
