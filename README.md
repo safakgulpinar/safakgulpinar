@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @safakgulpinar
-- 👀 I’m interested in HyperCasual
+
 - 🌱 I’m currently learning Unity + C#
 
 **Connect with me** 
